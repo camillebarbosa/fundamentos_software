@@ -26,25 +26,10 @@ Tudo com um visual delicado e uma paleta de cores inspirada no estilo **pastel**
 
 Você pode acessar a página completa em:
 
-🔗 **[Link para a página no GitHub Pages](https://camillebarbosa.github.io/fundamentos_software/)**
+🔗 https://camillebarbosa.github.io/fundamentos_software/
 
 E o código-fonte completo está neste repositório.
 
-## 📁 Organização dos arquivos
-fundamentos_software/
-│
-├── index.html # Página principal
-│
-├── styles/
-│ └── style.css # Estilos em css
-│
-├── script/
-│ └── script.js # Script com função do botão interativo
-│
-├── assets/
-│ └── (imagens usadas) # Todas as imagens que utilizei na página
-│
-└── README.md # Este arquivo
 
 ## Professora responsável
 **Luciane Kanashiro**
