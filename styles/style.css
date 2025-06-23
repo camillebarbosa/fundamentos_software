@@ -1,0 +1,92 @@
+body {
+    background:  #f7f4fa;
+    font-family: 'Quicksand', sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: #A78CA5;
+    text-align: center;
+}
+
+h2, h3 {
+    color: #A78CA5;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.hobby-img {
+    width: 280px;
+    border-radius: 15px;
+    display: block;
+    margin: 20px auto;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+table, th, td {
+    border: 1px solid #A78CA5;
+    box-shadow: 0 0 10px rgba(200, 180, 210, 0.2);  
+    background-color: #F5F0FA;
+    color: #A78CA5;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+
+.pais-img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    color: #700be2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c47078;
+}
+
+button {
+    background-color: #A78CA5;         
+    color: #ffffff;                    
+    font-size: 16px;
+    font-weight: bold;
+    border: 2px solid #b8b2b2;        
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 2px 2px 6px rgba(168, 140, 165, 0.3);
+    transition: all 0.3s ease;
+    display: block;
+    margin: 20px auto;
+}
+
+button:hover {
+    background-color: #FFE0EC;         
+    color: #7A3B69;    
+    border: 2px solid #b8b2b2;                   
+    box-shadow: 4px 4px 8px rgba(187, 178, 186, 0.4);
+}
+
+#mensagem{
+    text-align: center;
+}
